@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>Mori Zen - games</title>
+    <subtitle>&#x2F;comfy&#x2F;</subtitle>
+    <link rel="self" type="application/atom+xml" href="https://71zenith.github.io/tags/games/atom.xml"/>
+    <link rel="alternate" type="text/html" href="https://71zenith.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2025-01-10T00:00:00+00:00</updated>
+    <id>https://71zenith.github.io/tags/games/atom.xml</id>
+    <entry xml:lang="en">
+        <title>jrpg madness</title>
+        <published>2025-01-10T00:00:00+00:00</published>
+        <updated>2025-01-10T00:00:00+00:00</updated>
+        
+        <author>
+          <name>
+            Mori Zen
+          </name>
+        </author>
+        
+        <link rel="alternate" type="text/html" href="https://71zenith.github.io/blog/jrpg/"/>
+        <id>https://71zenith.github.io/blog/jrpg/</id>
+        
+        <content type="html" xml:base="https://71zenith.github.io/blog/jrpg/">&lt;h2 id=&quot;heres-how-i-manage-time-to-play-everything&quot;&gt;heres how i manage time to play &lt;em&gt;everything&lt;&#x2F;em&gt;&lt;&#x2F;h2&gt;
+&lt;p&gt;&lt;span class=&quot;spoiler&quot;&gt;i dont&lt;&#x2F;span&gt;&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
